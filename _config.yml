@@ -2,6 +2,7 @@ name: Cold World
 favicon: null
 layout_spectrum: 0.13889496680349112
 typography_spectrum: 0.11267300136387348
+title: 'A blog about Sneakers, Life, and everything in it.'
 cta:
   domain: null
   bucket: null
