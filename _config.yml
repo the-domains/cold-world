@@ -1,29 +1,18 @@
-name: Cold World
-favicon: null
-layout_spectrum: 0.13889496680349112
-typography_spectrum: 0.11267300136387348
-title: 'A blog about Sneakers, Life, and everything in it.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8740588512737304
-  lightness: 0.6193326162174344
-  saturation: 0.1462337695993483
-  rhythmicContrast: 0.14166973205283284
+    - '#C8C8C8'
+    - '#000000'
+    - '#787878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.874058
+  lightness: 0.619332
+  rhythmicContrast: 0.155427
+  saturation: 0.146233
+cta: {}
+layout_spectrum: 0.8125
+name: Cold World
+opengraph: {}
 purpose: []
+typography_spectrum: 0.807565
