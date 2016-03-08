@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A blog about Sneakers, Life, and everything in it.]]></title>
+        <description><![CDATA[A blog about Sneakers, Life, and everything in it.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 06:32:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I've seen a lot of sneaker restorations online, specifically YouTube, from guys like Sneaker Head In The Bay and Retro Snickers so I thought I'd try it myself. I bought these Air Raids from the outlet mall here in Las Vegas when I was 14 years old for a whopping $29. The production date on the inside tag reads 3-11-04. Today is 3-7-16 so we're coming up almost 12 years to the day since when these were produced. I wore these all throughout high school and played on them indoor and outdoor no matter the situation.</p>]]></description>
+            <link>undefined16223950-a180-4a2d-8ba5-199923330d22/index.html</link>
+            <guid isPermaLink="false">16223950-a180-4a2d-8ba5-199923330d22</guid>
+            <pubDate>Tue, 08 Mar 2016 06:31:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
